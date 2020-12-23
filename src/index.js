@@ -11,9 +11,3 @@ ReactDOM.render(
   </Provider>,
   document.getElementById("root")
 );
-
-{
-  /* <Provider>
-    <App />
-  </Provider> */
-}
